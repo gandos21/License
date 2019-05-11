@@ -2,6 +2,6 @@
   "GlobalPermission" : true,
   "ToolPermission" : {
     "OpexCheck" : true,
-    "SettlementCheck" : true
+    "SettlementCheck" : false
   }
 }
