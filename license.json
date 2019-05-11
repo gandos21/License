@@ -1,0 +1,7 @@
+{
+  "globalPermission" : true,
+  "toolPermission" : {
+    "opexCheck" : true,
+    "settlementCheck" : true
+  }
+}
